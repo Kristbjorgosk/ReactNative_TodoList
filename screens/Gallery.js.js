@@ -68,11 +68,11 @@ export default function App() {
       <View style={globalStyles.content}>
         <Text style={styles.instructions}>
           Press the button and accept the permission to select a photo from your
-          phone, once you have select the photo it should appear here.
+          phone, once you have selected the photo it should appear here.
         </Text>
         <Text style={styles.instructions}>
-          I am not using any database for this so your image is not beeing store
-          anywhere and will disapear if you refresh ":)"
+          I am not using any database for this so your image is not beeing
+          stored anywhere and will disapear if you refresh 😊
         </Text>
         <View style={globalStyles.imgButton}>
           <Button
