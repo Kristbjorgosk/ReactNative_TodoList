@@ -8,6 +8,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+StudyNotes.js
+Map.js
 
 # macOS
 .DS_Store
