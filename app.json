@@ -8,7 +8,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -25,15 +25,9 @@
         "backgroundColor": "#FFFFFF"
       }
     },
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#000000"
-    },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "description": "School project trying out React Native for the first time, so here are just mix match of things you can do with React Native"
-
   }
 }

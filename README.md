@@ -12,6 +12,19 @@ I really enjoyed diving into React Native and wanted to try out many more featur
 
 I used the EXPO app to view the app while building it both on the Simulator in XCODE on my Mac and on my iPhone.
 
-Click here to viev my Github repo in a VsCode look
+<hr>
 
-Click here to view the app through EXPO
+### The folder organisation:
+
+- **components** - the "add Todo" component and the "todo item" component that I used in the "TodoList.js" ( screen folder )
+
+- **screens** - the screens you can navigate between in the app ( files that keeps them ain code for each screen )
+
+- **routes** - the navigation set up using Stack Navigation
+
+- **styles** - global style file for styles that is used in more then one places
+
+<hr>
+
+Here is the link to view the app through EXPO, you have to have the EXPO app downloaded and the open up your camera roll and scan the QR code
+https://expo.io/@kristbjorg/projects/Module6
