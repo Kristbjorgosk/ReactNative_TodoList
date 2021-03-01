@@ -29,4 +29,4 @@ I used the EXPO app to view the app while building it both on the Simulator in X
 Here is the link to view the app through EXPO, you have to have the EXPO app downloaded and the open up your camera roll and scan the QR code
 https://expo.io/@kristbjorg/projects/Module6
 
-p.s I changed the splash image so when the app is loading you see bouncing dots :)
+git
